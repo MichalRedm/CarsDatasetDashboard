@@ -1,0 +1,74 @@
+body, .content-wrapper, .right-side {
+    background-color: #32303a !important;
+    color: #cccccc !important;
+}
+
+#shiny-tab-desc *{
+    color: #cccccc;
+}
+#shiny-tab-line *{
+    color: #cccccc;
+}
+
+.main-header .navbar {
+    background-color: #097cad !important;
+}
+.main-header .logo {
+    background-color: #097cad !important;
+    color: #cccccc !important;
+}
+.main-sidebar {
+    background-color: #2b2a33 !important;
+}
+.sidebar-menu>li>a {
+    color: #cccccc !important;
+}
+.sidebar-menu>li.active>a {
+    background-color: #097cad !important;
+    color: #cccccc !important;
+}
+.well, .box {
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 0 12px #00000099;
+}
+.box {
+    background-color: #3c3b41 !important;
+    border-top: 3px solid #097cad !important;
+    color: #cccccc !important;
+}
+.box-header {
+    color: #cccccc !important;
+}
+.box-body {
+    color: #cccccc !important;
+}
+.nav-tabs-custom>.nav-tabs>li.active {
+    border-top-color: #097cad !important;
+}
+.btn {
+    background-color: #097cad !important;
+    color: #ffffff !important;
+}
+/* Custom CSS for DataTable */
+.dataTables_wrapper {
+    color: #cccccc !important;}
+
+.dataTables_length select {
+    background-color: #454352 !important;
+    color: #cccccc !important;
+}
+.dataTables_filter input {
+    background-color: #454352 !important;
+    color: #cccccc !important;
+}
+
+.selectize-dropdown-content div[data-value],
+.selectize-input-item,
+.selectize-input,
+.selectize-input_wrapper,
+.selectize-control.single .selectize-input > div {
+    background-color: #32303a !important;
+    border: none !important;
+    color: #ffffff !important;
+}
